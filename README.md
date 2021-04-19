@@ -26,7 +26,8 @@ The configuration exists in the last part of the downloaded firmware image.
 
 
 
-#### Usage:
+__Usage__ (Python 2.7):
+
 ```shell
 $ python exploit.py http://192.168.1.1
         _  _
