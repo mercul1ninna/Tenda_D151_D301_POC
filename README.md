@@ -15,6 +15,7 @@ __Exploit Title__: Tenda D151 & D301 - Unauthenticated configuration download (l
   - D301 V2.0 50.22.1.8_EN
   - D151 V2.0 50.21.1.5_EN
 
+- Exploit-DB : https://www.exploit-db.com/exploits/49782
 
 #### Description
 
@@ -29,7 +30,7 @@ The configuration exists in the last part of the downloaded firmware image.
 __Usage__ (Python 2.7):
 
 ```shell
-$ python exploit.py http://192.168.1.1
+$ python exploit.py 192.168.1.1
         _  _
   ___ (~ )( ~)
  /   \_\ \/ /   
